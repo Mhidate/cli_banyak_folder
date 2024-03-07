@@ -1,0 +1,2 @@
+-Saat ini hanya bisa baca file MS.Excel
+-Nama folder harus berada di kolom A
