@@ -1,6 +1,6 @@
-#Saat ini hanya bisa baca file MS.Excel
-#Nama folder harus berada di kolom A
-#Di build di windows 10 64 bit
+- Saat ini hanya bisa baca file MS.Excel
+- Nama folder harus berada di kolom A
+- Di build di windows 10 64 bit
 
 # Tampilannya
 
